@@ -16,8 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ## you can see some screen shot of this project in below:
 
-<img src="./screen_shot/1.png" >
-<img src="./screen_shot/2.png" >
-<img src="./screen_shot/3.png" >
-<img src="./screen_shot/4.png" >
-<img src="./screen_shot/5.png" >
+<img width=300 height=500 src="./screen_shot/1.png" >
+<img width=300 height=500 src="./screen_shot/2.png" >
+<img width=300 height=500 src="./screen_shot/3.png" >
+<img  width=300 height=500 src="./screen_shot/4.png" >
+<img width=300 height=500 src="./screen_shot/5.png" >
